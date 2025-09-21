@@ -26,7 +26,7 @@
 #### Get Latest Vessel Location by MMSI
 
 ```http
-  curl -X GET https://api.marinesia.com/api/v1/vessel/${MMSI}/profile?key=${YOUR_API_KEY}
+  GET https://api.marinesia.com/api/v1/vessel/${MMSI}/profile?key=${YOUR_API_KEY}
 ```
 
 | Parameter | Type     | Description                |
