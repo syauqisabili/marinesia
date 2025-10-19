@@ -33,6 +33,58 @@
 | `YOUR_API_KEY` | `string` | **Required**. Your API key |
 
 
+## Dashboard — Vessel Position/Location (AIS)
+
+<img src="./assets/vessel-pos.png" alt="Marinesia AIS" width="700"/>
+
+### 🛰️ Overview
+**Marinesia Vessel Position** enables users to monitor global vessel movements in real time using **Automatic Identification System (AIS)** data. Each vessel entry displays detailed navigation information.
+This page provides both tabular and map-based vessel data views integrated into the **Marinesia Dashboard**.
+- Browse live AIS vessel records in real time  
+- Sort and filter by **MMSI**, **timestamp**, **speed**, or **heading**  
+- *Filter by MMSI — Soon*
+
+## Dashboard — Vessel Profile
+
+<img src="./assets/vessel-profile.png" alt="Marinesia Vessel Profile" width="700"/>
+
+### 🚢 Overview
+**Marinesia Vessel Profile** provides detailed background information for each vessel detected in the **Marinesia AIS** ecosystem.  
+Users can view complete vessel data including **MMSI**, **IMO**, **callsign**, **flag**, and **type**, all sourced from verified global maritime databases.
+This page integrates seamlessly with the **Vessel Position** module — allowing users to access full vessel details directly from live AIS position records.
+- View detailed vessel identity, type, and specifications  
+- Access **flag**, **MMSI**, **IMO**, and **callsign**
+- Filter and search vessels by name or MMSI  
+- *Click a vessel to open its **real-time position view** — Soon* 
+- *Vessel image & history — Soon*  
+
+
+## Dashboard — Port
+
+<img src="./assets/port.png" alt="Marinesia Port" width="700"/>
+
+### ⚓ Overview
+**Marinesia Port** feature provides a comprehensive list of global maritime ports with essential attributes such as country flag, UN/LOCODE, and berth information.
+This module allows users to browse and analyze port data interactively within the Marinesia Dashboard.
+- Browse port registry
+- View country flags and UN/LOCODE identifiers
+- Sort by name, country, UN/LOCODE, or berths
+- *Search and filter by country — Soon*
+
+
+## Dashboard — Live Stream
+
+<img src="./assets/live-stream.png" alt="Marinesia Live Stream" width="700"/>
+
+### 🎥 Overview
+**Marinesia Live Stream** allows users to monitor maritime video feeds in real-time from various global locations — ports, canals, and open-water areas.   
+This map uses **MapLibre GL JS** to visualize camera locations with distinctive camera markers.
+- Zoom and pan to explore map areas  
+- Hover or click on a camera to see details  
+- *Camera list panel - Soon*
+- *Open live video feeds directly — Soon*
+
+
 ## Give a Star 🌟
 You can give this repository a star to show more people and they can use this repository
 
