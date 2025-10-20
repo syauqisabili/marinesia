@@ -86,7 +86,7 @@ This map uses **MapLibre GL JS** to visualize camera locations with distinctive 
 
 
 ## Give a Star 🌟
-You can give this repository a star to show more people and they can use this repository
+You can give this repository a star to show more people :)
 
 
 ## Support and Feedback
