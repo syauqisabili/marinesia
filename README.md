@@ -9,6 +9,7 @@
 
 - Portal: [https://marinesia.com](https://marinesia.com)
 - Documentation: [https://docs.marinesia.com](https://docs.marinesia.com)
+- Coverage: [https://marinesia.com/coverage](https://marinesia.com/coverage) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" alt="New Button" width="18" height="18" />
 
 
 ## Features
@@ -16,8 +17,7 @@
 - Vessel location (AIS)
 - Vessel profile with image
 - Global port directory
-- Live CCTV streaming from onboard locations
-
+- Live CCTV streaming from onboard locations 
 
 ## Getting started
 
