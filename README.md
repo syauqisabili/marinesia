@@ -1,16 +1,28 @@
-![Marinesia](https://db.marinesia.com/storage/v1/object/public/assets//marinesia-logo-dark-smooth.png)
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://db.marinesia.com/storage/v1/object/public/assets//marinesia-logo-dark-smooth.png" alt="Marinesia" width="640"/>
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Offering+a+simple+way+to+access;Ships;Ports;Live+Streams)](https://git.io/typing-svg)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/syauqisabili/marinesia/commits/master/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://marinesia.com) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/syauqisabili/marinesia/issues)
+
 # Marinesia - Marine API
 
 **Marinesia** is a free-to-use, lightweight and modern API designed for maritime applications. It provides APIs that support real-time vessel tracking, historical movements, ship profile management, global port registry, and location-aware CCTV live streams.
 
-- Portal: [https://marinesia.com](https://marinesia.com)
-- Documentation: [https://docs.marinesia.com](https://docs.marinesia.com)
-- Coverage: [https://marinesia.com/coverage](https://marinesia.com/coverage) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" alt="New Button" width="18" height="18" />
+<p align="left">
+  <img src="assets/coverage.gif" alt="Demo" width="640"/>
+</p>
 
+
+<p align="left">
+  <b>Portal:</b> <a href="https://marinesia.com">https://marinesia.com</a><br/>
+  <b>Documentation:</b> <a href="https://docs.marinesia.com">https://docs.marinesia.com</a><br/>
+  <b>Coverage:</b> <a href="https://marinesia.com/coverage">https://marinesia.com/coverage</a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" alt="New Button" width="18" height="18"/>
+</p>
 
 ## Features
 
