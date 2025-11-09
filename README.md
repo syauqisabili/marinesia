@@ -29,7 +29,7 @@
 - Vessel location (AIS)
 - Vessel profile with image
 - Global port directory
-- Live CCTV streaming from onboard locations 
+- Live CCTV streaming from onboard locations (temporarily unavailable) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Prohibited.png" alt="Prohibited" width="18" height="18" />
 
 ## Getting started
 
