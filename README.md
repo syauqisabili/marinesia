@@ -24,6 +24,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" alt="New Button" width="18" height="18"/>
 </p>
 
+## Changelog
+All updates and improvements to Marinesia are documented in the project’s changelog.
+You can view the complete change history here: [CHANGELOG.md](CHANGELOG.md)
+
 ## Features
 
 - Vessel location (AIS)
